@@ -1,4 +1,4 @@
-## 🤖 QuestRAG: PDF QA and Summarizer Bot
+## 🤖 RAGSCHOLAR: PDF QA and Summarizer Bot
 
 An AI-powered Streamlit web application that allows you to:
 - 📄 Upload research PDFs
