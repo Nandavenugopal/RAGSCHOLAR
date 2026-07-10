@@ -1,0 +1,10 @@
+streamlit
+transformers
+sentence-transformers
+langchain
+langchain_community
+torch
+torchvision
+chromadb
+PyPDF2
+pypdf
