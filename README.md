@@ -24,7 +24,7 @@ This mini project was developed as part of the **"Project Gen AI Applications wi
 > Ensure Python 3.9+ is installed.
 
 ```bash
-git clone https://github.com/YourUsername/QuestRAG.git
+https://github.com/Nandavenugopal/RAGSCHOLAR.git
 cd QuestRAG
 pip install -r requirements.txt
 streamlit run main.py
